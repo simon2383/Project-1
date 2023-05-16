@@ -28,3 +28,8 @@ The dataset used in this project comprises various sources, including the Top US
 *	Most Watched Videos in 2020 (David)
 *	The Most Viewed Quarantine Challenge Videos During Strict COVID Lockdown Findings and Observations Post - Mortem (David)
 *	Hypothesis Testing(Simon)
+
+***Project Time:
+1. Wrok codes (May 16-20)
+2. Complie all code and run it as well as findings of the project (May 21)
+3. Work on presentaions (May 22)

@@ -1,3 +1,5 @@
+![youtube](https://user-images.githubusercontent.com/70446836/98875791-ed290380-244a-11eb-9883-2486d9b81acc.png)
+
 ### Project Title: YouTube Trend Analysis During COVID
 
 Team Member: Frank, Simon and David

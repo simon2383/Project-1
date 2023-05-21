@@ -23,17 +23,13 @@ The dataset used in this project comprises various sources, including the Top US
 
 ***Rough Breakdown of task:
 
-*	Top Five Liked Videos from August to November 2020 (Frank)
-*	Most Published Videos per Category from August to November 2020 (Frank)
-*	Top Trending Channels from August to October 2020 (Frank)
-*	Relationship between View Count and Reactions per Category (Simon)
-*	Comparison Between the Top Two Categories: Music vs. Entertainment (Simon)
-*	Most Watched Videos in 2019 (David)
-*	Most Watched Videos in 2020 (David)
-*	The Most Viewed Quarantine Challenge Videos During Strict COVID Lockdown Findings and Observations Post - Mortem (David)
-*	Hypothesis Testing(Simon)
+*	Top Five Liked Videos from August to November 2020 
+*	Most Published Videos per Category from August to November 2020 
+*	Top Trending Channels from August to October 2020 
+*	Relationship between View Count and Reactions per Category 
+*	Comparison Between the Top Two Categories: Music vs. Entertainment
+*	Most Watched Videos in 2019 
+*	Most Watched Videos in 2020 
+*	The Most Viewed Quarantine Challenge Videos During Strict COVID Lockdown Findings and Observations Post - Mortem 
 
-***Project Time:
-1. Wrok on codes (May 16-20)
-2. Complie all code and run it as well as findings of the project (May 21)
-3. Work on presentaions (May 22)
+

@@ -2,7 +2,7 @@
 
 ### Project Title: YouTube Trend Analysis During COVID
 
-Team Member: Frank, Simon and David
+Team Member: Simon Gomes, Yichao Li, David Baldwin
 
 ***Project Description: 
 

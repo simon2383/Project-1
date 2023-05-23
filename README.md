@@ -8,19 +8,6 @@ Team Member: Simon Gomes, Yichao Li, David Baldwin
 
 Our project aims to analyse various datasets from YouTube and identify observable trends. The datasets analysed include the Top US Trending Videos from Kaggle for August to November of 2020, as well as three datasets obtained from the YouTube API: YouTube Search Items, YouTube Video Statistics, and YouTube Channel Statistics. The project encompasses trend analysis of user behaviours, video statistics, channel statistics, and category statistics, spanning the years 2019 and 2020. In particular, the review provides valuable insights into viewer trends during the strict COVID-19 lockdown in the US from March to June of 2020.
 
-***Research Questions to Answer: 
-
-*a.	Find out whether YouTube trends reflect societal events, such as quarantine challenges, vlogs, new music video releases, and video games?
-
-*b.	As viewership of a video increases, it is typical to observe a corresponding rise in the number of likes, dislikes, and comments left by viewers. In essence, there tends to be a direct relationship between the level of viewer reactions and the size of the audience for a given video.
-
-*c.	In light of the COVID-19 pandemic, it is apparent that there have been significant changes in YouTube viewer habits during 2020 when compared to 2019?
-
-***Database to be used: 
-
-
-The dataset used in this project comprises various sources, including the Top US Trending Videos on Kaggle spanning August to November 2020, as well as three datasets obtained from the YouTube API. These sources include YouTube Search Items, YouTube Video Statistics, and YouTube Channel Statistics.
-
 
 Please review the following links to review the final data analysis and data exploration/clean-up process:
 [MainPy](https://github.com/simon2383/Project-1/blob/main/YouTube_Analysis_Group2.ipynb)

@@ -21,16 +21,6 @@ Our project aims to analyse various datasets from YouTube and identify observabl
 
 The dataset used in this project comprises various sources, including the Top US Trending Videos on Kaggle spanning August to November 2020, as well as three datasets obtained from the YouTube API. These sources include YouTube Search Items, YouTube Video Statistics, and YouTube Channel Statistics.
 
-***Rough Breakdown of task:
-
-*	Top Five Liked Videos from August to November 2020 
-*	Most Published Videos per Category from August to November 2020 
-*	Top Trending Channels from August to October 2020 
-*	Relationship between View Count and Reactions per Category 
-*	Comparison Between the Top Two Categories: Music vs. Entertainment
-*	Most Watched Videos in 2019 
-*	Most Watched Videos in 2020 
-*	The Most Viewed Quarantine Challenge Videos During Strict COVID Lockdown Findings and Observations Post - Mortem 
 
 Please review the following links to review the final data analysis and data exploration/clean-up process:
 [MainPy](https://github.com/simon2383/Project-1/blob/main/YouTube_Analysis_Group2.ipynb)
